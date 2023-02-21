@@ -20,7 +20,7 @@ __Όνομα__: Γεώργιος-Κωνσταντίνος Ζαχαρόπουλο
 
 Το shell script finder.sh δέχεται ως όρισμα TLDs και επιστρέφει πόσες φορές έχουν βρεθεί στα αντίστοιχα αρχεία των workers.
 
-[Αναλυτική Εκφώνηση]()
+[Αναλυτική Εκφώνηση](https://github.com/KonstantinosZach/Inotifywait-Project/blob/main/SysPro_hw1-spring-2022.pdf)
 
 Το project έγινε στο πλαίσιο του μαθήματος [Κ24:Προγραμματισμός Συστήματος](https://cgi.di.uoa.gr/~mema/courses/k24/k24.html)
 
